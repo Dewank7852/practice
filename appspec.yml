@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /Views/Home/index.cshtml
+  - source: /Views/Home/index.html
     destination: /var/www/html/
